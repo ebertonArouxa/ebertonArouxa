@@ -1,5 +1,5 @@
 # Bem vindo!
- Desenvolvedor Web Full-Stack | Designer Gráfico
+ Desenvolvedor Web Front-end | Designer Gráfico
 
 ## Sobre mim
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebertonsouza/)](https://www.linkedin.com/in/ebertonsouza/)
