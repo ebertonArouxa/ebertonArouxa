@@ -4,7 +4,7 @@
 ## Sobre mim
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebertonsouza/)](https://www.linkedin.com/in/ebertonsouza/)
 
-Olá! Sou o Eberton Arouxa, um entusiasta de design que está trilhando o emocionante caminho de se tornar um desenvolvedor web front-end. Combinando minha paixão pelo design com minhas habilidades de programação, estou em busca de oportunidades que me permitam criar interfaces incríveis e funcionais.
+Olá! Sou o Eberton Arouxa, um entusiasta de design que está trilhando o emocionante caminho de um desenvolvedor web front-end. Combinando minha paixão pelo design com minhas habilidades de programação, estou em busca de oportunidades que me permitam criar interfaces incríveis e funcionais.
 
 ### :books: Conhecimentos: 
 
